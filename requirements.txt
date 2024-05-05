@@ -1,0 +1,4 @@
+colorama==0.4.6
+dnspython==2.6.1
+pymongo==4.7.1
+python-dotenv==1.0.1
